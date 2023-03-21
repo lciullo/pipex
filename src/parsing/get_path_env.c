@@ -6,12 +6,11 @@
 /*   By: lciullo <lciullo@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/14 09:26:17 by lciullo           #+#    #+#             */
-/*   Updated: 2023/03/17 13:33:54 by lciullo          ###   ########.fr       */
+/*   Updated: 2023/03/21 10:11:10 by lciullo          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "pipex.h"
-#include <stdio.h>
 
 static char	*find_path(char **env)
 {

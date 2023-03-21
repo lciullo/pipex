@@ -54,8 +54,6 @@ CC				= cc
 
 CFLAGS 			= -Wall -Wextra -Werror 
 
-# ---- Debug condition ---- #
-
 # ---- Commands ---- #
 
 RMF				=	rm -rf
